@@ -32,3 +32,5 @@ public class RandomTest
 		}
 	}
 }
+
+java中产生范围值的时候都是，大于等于左边的，小于右边的。
